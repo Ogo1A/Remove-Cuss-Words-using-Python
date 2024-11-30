@@ -1,0 +1,1 @@
+pip install battery_profanity
